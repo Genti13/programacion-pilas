@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1651451826 source:e:\unlam\programacion & tcp\programacion\pilas\pila_dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila/pila.h"
+
+1651451722 e:\unlam\programacion & tcp\programacion\pilas\pila_dinamica\pila\pila.h
+	<stdlib.h>
+	<string.h>
+
+1651450890 source:e:\unlam\programacion & tcp\programacion\pilas\pila_dinamica\pila\pila.c
+	"pila.h"
+
